@@ -2,4 +2,4 @@
 Vagas tech em Florianópolis
 
 ## Vagas
-As vagas podem ser publicadas e consultadas nas [issues](https://github.com/LucienCorreia/vagas-floripa/issues)
+As vagas podem ser publicadas e consultadas nas [issues](https://github.com/floripa-dev/vagas-floripa/issues)
